@@ -1,16 +1,10 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║          SYSTEM INITIALIZED · Corny ahh header        ║
-╚═══════════════════════════════════════════════════════╝
-```
-
 # Esteban · `@Bandidoouu`
 
 **Software Engineering student @ FIME, UANL**  
 🛰️ NASA Space Apps Challenge — Global Nominee  
-🔧 Founder @ [Chrome & Circuits] · Computer repair & maintenance  
+🔧 Founder @ Chrome & Circuits · Computer repair & maintenance  
 📍 Monterrey, México
 
 </div>
@@ -19,13 +13,12 @@
 
 ### `> whoami`
 
-I build things that i enjoy, do they work? ...Maybe...
-When i'm not coding, i'm breaking into boxes on wargames (stuck at lvl 20 and i dont wanna use tutorials), gaming, or ricing my Arch setup (it has become a nightmare atp)
+I build things that I enjoy, do they work? ...Maybe. When i'm not coding, i'm breaking into boxes on wargames (stuck at lvl 20 and I don't wanna use tutorials), gaming, or ricing my Arch setup (it has become a nightmare atp)
 
 - 🎓 Studying Software Engineering at **FIME · UANL**
 - 🚀 Represented México as a **NASA Space Apps Global Nominee**
 - 🔐 Into **cybersecurity** — CTFs, wargames, offensive tooling
-- 🐧 Daily driving **Arch Linux** + Hyprland (Gaming on windows)
+- 🐧 Daily driving **Arch Linux** + Hyprland (gaming on Windows)
 - 🎮 Gaming on: Cyberpunk 2077 · Deadlock · Destiny 2 · Ark: Survival Evolved
 
 ---
@@ -54,8 +47,7 @@ soldering iron (rarely on purpose)
 
 | Repo | Descripción |
 |------|-------------|
-| 🛰️ **[NASA Space Apps]** | Global Nominee project — [Diseñé una aplicación web interactiva utilizando JavaScript y HTML/CSS para la visualización 3D de objetos cercanos a la Tierra (NEOs).
-​Implementé scripts en Python para procesar datos astronómicos y calcular proyecciones de impacto.] |
+| 🛰️ **[NASA Space Apps]** | Global Nominee — Interactive web app for 3D visualization of Near-Earth Objects (NEOs) using JS, HTML/CSS + Python scripts for astronomical data processing |
 | 🐧 **[Barch]** | Post-install Arch Linux automation script — messy but mine |
 
 ---
@@ -76,8 +68,8 @@ soldering iron (rarely on purpose)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/esteban-arreola-gonzalez-083119348)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](EstebanArreola@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-arreola-gonzalez-083119348)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EstebanArreola@protonmail.com)
 
 *"Little by little we advance with each turn."*
 
