@@ -56,7 +56,7 @@ soldering iron (rarely on purpose)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bandidoouu&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=c9d1d9)
+![GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBandidoouu=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandidoouu&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=c9d1d9)
 
